@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aicohort2/static/css/main.9f341fee.css",
+    "main.js": "/aicohort2/static/js/main.53185988.js",
+    "static/js/787.4266594e.chunk.js": "/aicohort2/static/js/787.4266594e.chunk.js",
+    "index.html": "/aicohort2/index.html",
+    "main.9f341fee.css.map": "/aicohort2/static/css/main.9f341fee.css.map",
+    "main.53185988.js.map": "/aicohort2/static/js/main.53185988.js.map",
+    "787.4266594e.chunk.js.map": "/aicohort2/static/js/787.4266594e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f341fee.css",
+    "static/js/main.53185988.js"
+  ]
+}
